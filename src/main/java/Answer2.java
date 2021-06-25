@@ -32,7 +32,7 @@ import java.util.List;
  链接：https://leetcode-cn.com/problems/maximum-ice-cream-bars
  著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-class Day2 {
+class Answer2 {
     public int maxIceCream(int[] costs, int coins) {
         int sum=0;
         int num=0;
